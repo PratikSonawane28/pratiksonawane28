@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Pratik Sonawane</h1>
-<h3 align="center">Center forward - Real Madrid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksonawane28&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksonawane28" /> </p>
 
